@@ -43,11 +43,11 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://tjys.now.sh/'
+      url: 'https://b.3369.ml/'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      url: 'https://github.com/kkcodify/uptime-status'
     }
   ]
 };
