@@ -43,7 +43,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://b.3369.ml/'
+      url: 'https://jiank.pages.dev/'
     },
     {
       text: 'GitHub',
